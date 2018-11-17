@@ -1,5 +1,6 @@
 # E2E-MLT
 Forked from MichalBusta/E2E-MLT
+
 E2E-MLT - an Unconstrained End-to-End Method for Multi-Language Scene Text
 
 code base for:  https://arxiv.org/abs/1801.09919
